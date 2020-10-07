@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/projecteror-math/static/css/main.523f09c5.chunk.css",
+    "main.js": "/projecteror-math/static/js/main.613c9931.chunk.js",
+    "main.js.map": "/projecteror-math/static/js/main.613c9931.chunk.js.map",
+    "runtime-main.js": "/projecteror-math/static/js/runtime-main.11238411.js",
+    "runtime-main.js.map": "/projecteror-math/static/js/runtime-main.11238411.js.map",
+    "static/js/2.0938f15a.chunk.js": "/projecteror-math/static/js/2.0938f15a.chunk.js",
+    "static/js/2.0938f15a.chunk.js.map": "/projecteror-math/static/js/2.0938f15a.chunk.js.map",
+    "index.html": "/projecteror-math/index.html",
+    "precache-manifest.bf84b7e68fafe988a3155061c5e0a924.js": "/projecteror-math/precache-manifest.bf84b7e68fafe988a3155061c5e0a924.js",
+    "service-worker.js": "/projecteror-math/service-worker.js",
+    "static/css/main.523f09c5.chunk.css.map": "/projecteror-math/static/css/main.523f09c5.chunk.css.map",
+    "static/js/2.0938f15a.chunk.js.LICENSE.txt": "/projecteror-math/static/js/2.0938f15a.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/projecteror-math/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.11238411.js",
+    "static/js/2.0938f15a.chunk.js",
+    "static/css/main.523f09c5.chunk.css",
+    "static/js/main.613c9931.chunk.js"
+  ]
+}
